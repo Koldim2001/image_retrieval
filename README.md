@@ -1,4 +1,4 @@
-# Реализация система извлечения изображений по текстовому описанию и поиск похожих фотографий
+# __Реализация системы извлечения изображений по текстовому описанию и поиск похожих фотографий в датасете__
 
 
 ## __УСТАНОВКА:__
@@ -29,6 +29,6 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ## Webinar/Tutorial
 Имеется подробный туториал по работе с данным репозиторием, в котором рассказаны основные теоретические и практические моменты по работе с image retrieval\
 Доступен по клику на иконку:\
-[![webinar video](https://i9.ytimg.com/vi_webp/Y9CBkdhGwqI/mqdefault.webp?v=653d59c9&sqp=CJzc9akG&rs=AOn4CLA5jkZVNjP_pgwphgBDxDBa7uPgFg)](https://www.youtube.com/watch?v=Y9CBkdhGwqI&t=4647s)
+[![webinar video](retrival_logo.jpg)](https://www.youtube.com/watch?v=Y9CBkdhGwqI&t=4647s)
 
 
