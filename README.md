@@ -29,6 +29,6 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ## Webinar/Tutorial
 Имеется подробный туториал по работе с данным репозиторием, в котором рассказаны основные теоретические и практические моменты по работе с image retrieval\
 Доступен по клику на иконку:\
-[![webinar video](retrival_logo.jpg)](https://www.youtube.com/watch?v=Y9CBkdhGwqI&t=4647s)
+[![webinar video](retrival_logo.jpg)](https://youtu.be/kQoe0HWg9d0)
 
 
