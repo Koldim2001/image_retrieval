@@ -31,4 +31,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 Доступен по клику на иконку:\
 [![webinar video](retrival_logo.jpg)](https://youtu.be/kQoe0HWg9d0)
 
+---
+
+PS: Для извлечения признаков из фото рекомендую эту CLIP модель так как она обучена на более большом датасете - https://huggingface.co/laion/CLIP-ViT-B-32-laion2B-s34B-b79K
 
